@@ -4,12 +4,25 @@
   "private": true,
   "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
   "dependencies": {
-    "axios": "^0.18.0",
-    "react": "^16.4.1",
-    "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.4.1",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4"
+  
+     "axios": "^0.18.0",
+    "ckeditor": "4.6.2",
+    "core-js": "^2.6.5",
+    "file-loader": "^4.0.0",
+    "improved-yarn-audit": "^2.3.3",
+  
+    "lodash": "^4.17.11",
+    "mini-create-react-context": "^0.4.1",
+    "prop-types": "15.5.8",
+    "query-string": "5",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-froala-wysiwyg": "3.1.0",
+    "react-redux": "5.0.4",
+    "react-router": "^5.2.0",
+    "redux": "4.0.4",
+    "redux-thunk": "2.2.0",
+    "url-loader": "^2.0.0"
 
   },
   "scripts": {
@@ -21,6 +34,42 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+  
+     "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.0",
+    "@babel/polyfill": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0",
+    "@testing-library/react": "^11.2.6",
+    "babel-eslint": "8",
+    "babel-loader": "^8.0.5",
+    "clean-webpack-plugin": "^0.1.19",
+    "copy-webpack-plugin": "^4.5.1",
+    "css-loader": "^0.28.7",
+    "enzyme": "^3.4.1",
+    "enzyme-adapter-react-16": "^1.15.4",
+    "enzyme-to-json": "^3.3.4",
+    "eslint": "^4.12.1",
+    "eslint-plugin-react": "^7.5.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "istanbul-instrumenter-loader": "^3.0.0",
+    "jest": "^24.5.0",
+    "jquery": "^3.5.1",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "mocha": "^4.0.1",
+    "null-loader": "^0.1.1",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-mock-store": "^1.5.1",
+    "style-loader": "^0.19.0",
+    "testdouble": "^3.2.6",
+    "webpack": "^3.12.0",
+    "webpack-append": "^0.1.2",
+    "webpack-concat-plugin": "^2.4.2",
+    "webpack-livereload-plugin": "1",
+    "webpack-merge": "^4.1.1"
   }
 }
