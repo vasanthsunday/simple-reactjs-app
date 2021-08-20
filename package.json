@@ -4,27 +4,24 @@
   "private": true,
   "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
   "dependencies": {
-  
-     "axios": "^0.18.0",
+   "axios": "^0.18.0",
     "ckeditor": "4.6.2",
     "core-js": "^2.6.5",
     "file-loader": "^4.0.0",
-    "improved-yarn-audit": "^2.3.3",
-  
+    "kyber": "8.0.0-beta.3",
     "lodash": "^4.17.11",
-    "mini-create-react-context": "^0.4.1",
-    "prop-types": "15.5.8",
+    "prop-types": "15.6.0",
     "query-string": "5",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
     "react-froala-wysiwyg": "3.1.0",
-    "react-redux": "5.0.4",
-    "react-router": "^5.2.0",
-    "redux": "4.0.4",
+    "react-redux": "5.0.2",
+    "redux": "3.6.0",
     "redux-thunk": "2.2.0",
-    "url-loader": "^2.0.0"
-
-  },
+    "select2": "^4.0.6-rc.1",
+    "url-loader": "^2.0.0",
+   "mini-create-react-context": "^0.4.1",
+   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
