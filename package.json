@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
   "dependencies": {
-   "axios": "^0.18.0",
+    "axios": "^0.18.0",
     "ckeditor": "4.6.2",
     "core-js": "^2.6.5",
     "file-loader": "^4.0.0",
@@ -20,7 +20,7 @@
     "redux-thunk": "2.2.0",
     "select2": "^4.0.6-rc.1",
     "url-loader": "^2.0.0",
-   "mini-create-react-context": "^0.4.1",
+    "mini-create-react-context": "^0.4.1"
    },
   "scripts": {
     "start": "react-scripts start",
